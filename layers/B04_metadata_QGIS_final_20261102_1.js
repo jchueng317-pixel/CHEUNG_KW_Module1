@@ -1,0 +1,1 @@
+var json_B04_metadata_QGIS_final_20261102_1 = {"type":"FeatureCollection","name":"B04_metadata_QGIS_final_20261102_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
